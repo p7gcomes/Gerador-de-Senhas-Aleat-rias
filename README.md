@@ -6,16 +6,16 @@ Como funciona
 
 O script permite gerar senhas aleatórias com base nos seguintes parâmetros:
 
-Comprimento da senha: Definido pelo usuário.
+•	Comprimento da senha: Definido pelo usuário.
 
-Inclusão de caracteres específicos:
+•	Inclusão de caracteres específicos:
 
-Letras maiúsculas (A-Z)
+•	Letras maiúsculas (A-Z)
 
-Letras minúsculas (a-z)
+•	Letras minúsculas (a-z)
 
-Números (0-9)
+•	Números (0-9)
 
-Caracteres especiais (!@#$%^&* etc.)
+•	Caracteres especiais (!@#$%^&* etc.)
 
 O programa concatena os tipos de caracteres escolhidos e gera uma senha aleatória do tamanho especificado.
